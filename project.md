@@ -96,3 +96,14 @@ phpinfo();'
 
 ![php](./images/Screenshot%202023-03-26%20172940.png)
 
+'cd projectt111'
+
+'git status'
+
+'git add .'
+
+'git commit -m 'myfirst_project' '
+
+'git push'
+
+
